@@ -1,0 +1,15 @@
+{
+  "contact": "r/catalunya Discord @mikegs",
+  "templates": [
+    {
+      "name": "r/place_r/catalunya",
+      "sources": [
+        "https://raw.githubusercontent.com/Galet13/rplace-Catalunya/main/place_plantilla.png"
+      ],
+      "x": 424,
+      "y": 149
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
