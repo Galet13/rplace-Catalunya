@@ -10,6 +10,11 @@
       "y": 149
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "r/catalunya",
+      "url": "https://raw.githubusercontent.com/Galet13/rplace-Catalunya/main/plantilla.json"
+    }
+  ],
   "blacklist": []
 }
